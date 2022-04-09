@@ -1,0 +1,10 @@
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\bin\Debug\RadioButtonKontrol.exe.config
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\bin\Debug\RadioButtonKontrol.exe
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\bin\Debug\RadioButtonKontrol.pdb
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.csproj.AssemblyReference.cache
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.Form1.resources
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.Properties.Resources.resources
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.csproj.GenerateResource.cache
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.exe
+C:\Users\Kartal\source\repos\RadioButtonKontrol\RadioButtonKontrol\obj\Debug\RadioButtonKontrol.pdb
